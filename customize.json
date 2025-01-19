@@ -2,7 +2,7 @@
   "greeting": "Hola",
   "name": "Nicolita",
   "greetingText": "Me gusta mucho como suena",
-  "wishText": "Espero que todo salga siempre como lo esperas \n Sigue disfrutando mucho tu viaje y brillando como la niña increíble que eres",
+  "wishText": "Espero que todo salga siempre como lo esperas \n Sigue disfrutando mucho tu viaje y brillando como la niña increíble que eres \n Te quiero macho Nicolita para todo y para siempre",
   "imagePath": "img/nicol.png",
   "text1": "Es tu cumpleaños (por si aún no sabias)",
   "textInChatBox": "Feliz cumpleaños... eres la mejor... blah...",
@@ -17,7 +17,7 @@
   "bigTextPart1": "ASÍ",
   "bigTextPart2": "QUE",
   "wishHeading": "Felicidades!",
-  "outroText": "Bueno, es momento que vuelvas a hacer lo que tengas que hacer y cuando regreses organizamos algo para tu regalo",
+  "outroText": "Bueno, es momento que vuelvas a hacer lo que tengas que hacer y cuando regreses organizamos algo para tu regalo\n\n",
   "replayText": "O da clic aquí si quieres verlo de nuevo",
   "outroSmiley": "🫶"
 }
